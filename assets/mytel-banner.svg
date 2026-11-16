@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">MyTel.one — Voice. Software. Infrastructure.</title>
+  <desc id="desc">MyTel brand banner in midnight navy, electric blue and amber orange, with a white handset and audio waves.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#061A30"/>
+      <stop offset=".6" stop-color="#020914"/>
+      <stop offset="1" stop-color="#081629"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#29C1FF"/>
+      <stop offset="1" stop-color="#0663FF"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#FFBF43"/>
+      <stop offset="1" stop-color="#FF7900"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#168BFF"/>
+      <stop offset=".66" stop-color="#168BFF"/>
+      <stop offset="1" stop-color="#FF8A00"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#147BD5" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#147BD5" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="1278" height="358" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <ellipse cx="1030" cy="178" rx="300" ry="270" fill="url(#halo)"/>
+    <g fill="none" stroke="#1E5387" stroke-width="1" opacity=".24">
+      <circle cx="1034" cy="178" r="137"/>
+      <circle cx="1034" cy="178" r="175"/>
+      <circle cx="1034" cy="178" r="216"/>
+      <path d="M778 0V64L828 114M814 360V294L862 246M1204 0V65L1164 105M1233 360V282L1183 232"/>
+    </g>
+    <g fill="#168BFF" opacity=".55">
+      <circle cx="828" cy="114" r="3"/><circle cx="862" cy="246" r="3"/>
+    </g>
+    <g fill="#FF9F22" opacity=".65">
+      <circle cx="1164" cy="105" r="3"/><circle cx="1183" cy="232" r="3"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="56" y="44" width="260" height="30" rx="15" fill="#0B2947" stroke="#17466F"/>
+      <circle cx="73" cy="59" r="3" fill="#29B6FF"/>
+      <text x="87" y="63.5" fill="#A7C9EB" font-size="11" font-weight="700" letter-spacing="1.8">BUSINESS COMMUNICATIONS</text>
+      <text x="52" y="163" fill="#FFFFFF" font-size="78" font-weight="700" letter-spacing="-3">MyTel<tspan fill="#FF9F22">.one</tspan></text>
+      <text x="57" y="221" fill="#E0EDFF" font-size="30" font-weight="600" letter-spacing="-.5">Voice. Software. Infrastructure.</text>
+      <text x="58" y="264" fill="#93ACC7" font-size="19">VoIP &amp; PBX  /  SIP softphones  /  Call centers</text>
+      <text x="58" y="314" fill="#4DA9FF" font-size="14" font-weight="600" letter-spacing="1.2">MYTEL.ONE</text>
+      <text x="177" y="314" fill="#54718F" font-size="14">·</text>
+      <text x="197" y="314" fill="#8BA5BF" font-size="14">TEHRAN, IRAN</text>
+    </g>
+    <g transform="translate(1034 178)">
+      <circle r="101" fill="#04111F" stroke="url(#blue)" stroke-width="12"/>
+      <path d="M71.4-71.4A101 101 0 0 1 71.4 71.4" fill="none" stroke="url(#orange)" stroke-width="12" stroke-linecap="round"/>
+      <path d="M-54-57Q-58-57-58-48Q-58 12-12 45Q13 64 43 65Q53 65 53 55L53 37Q53 29 45 27L24 23Q18 22 13 29L5 39Q-23 25-35 0L-25-10Q-20-15-22-22L-27-49Q-28-57-36-57Z" fill="#F7FBFF"/>
+      <g stroke="url(#blue)" stroke-width="9" stroke-linecap="round">
+        <path d="M-157-17V17M-140-37V37M-123-24V24"/>
+      </g>
+      <g stroke="url(#orange)" stroke-width="9" stroke-linecap="round">
+        <path d="M123-24V24M140-37V37M157-17V17"/>
+      </g>
+    </g>
+    <rect x="0" y="356" width="1280" height="4" fill="url(#accent)"/>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="359" rx="24" fill="none" stroke="#193149"/>
+</svg>
